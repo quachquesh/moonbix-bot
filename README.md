@@ -1,3 +1,6 @@
+## 🌟 Start Here with Your Referral Link
+If you're new to Binance, join using this [referral link](https://t.me/Binance_Moonbix_bot/start?startApp=ref_990999242&startapp=ref_990999242&utm_medium=web_share_copy) to get started and take advantage of exclusive bonuses.
+
 # MoonBix-Bot
 ![badge](https://img.shields.io/badge/version-1.0-blue)
 
